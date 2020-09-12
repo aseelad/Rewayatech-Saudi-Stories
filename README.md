@@ -3,7 +3,9 @@
 
 The repository contains a collection of Arabic stories written in electronic forms between the years of 2003-2015 by online users using anonymized usernames. The data is released for non-commercial research use. The total number of stories collected is 1,267 files, stories. In average, each story contains 73,798 words. These stories where written by 913 unique authors, with a minimum of one story per writer and a maximum of seven stories per author. Authors who authored more than one story usually have stories with multiple series. 
 
-The associated paper to this repository can be found here: Coming soon
+The associated paper to this repository can be found here: 
+
+Addawood, A., & Alzeer, D. (2020). Rewayatech: Saudi Web Novels Dataset.
 
 
 # Data Organization and Discerption
@@ -23,6 +25,8 @@ The excel file "SaudiNovelsMetadata", contains more information about each story
 # Data Usage Agreement
 
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, and cite the following manuscript:
+
+Addawood, A., & Alzeer, D. (2020). Rewayatech: Saudi Web Novels Dataset.
 
 --
 
